@@ -15,7 +15,7 @@
     align-items: center;
 }
 
-.cloud1,.cloud2,.cloud3{
+.cloud1,.cloud2,.cloud3,.tree{
     height: 100px;
     position: absolute;
     right: 0;
@@ -38,6 +38,12 @@
     top:75%;
     transform: translate(100%, -75%);
     animation: clouds 3s ease infinite 1.5s;
+}
+
+.tree{
+    top:90%;
+    transform: translate(100%, -90%);
+    animation: clouds 3s ease infinite .5s;
 }
 
 .yman{
