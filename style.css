@@ -41,7 +41,7 @@
 }
 
 .tree{
-    top:100%;
+    bottom:100%;
     transform: translate(100%, -100%);
     animation: clouds 3s ease infinite 1.5s;
     height:250px;
