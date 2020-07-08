@@ -40,14 +40,6 @@
     animation: clouds 3s ease infinite 1.5s;
 }
 
-.tree{
-    bottom:100%;
-    transform: translateY(100%);
-    animation: clouds 3s ease infinite .5s;
-    height:250px;
-    position: absolute;
-    right: 0;
-    z-index: -1;
 }
 
 .yman{
