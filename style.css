@@ -41,9 +41,9 @@
 }
 
 .tree{
-    top:90%;
-    transform: translate(100%, -90%);
-    animation: clouds 3s ease infinite .5s;
+    top:75%;
+    transform: translate(100%, -75%);
+    animation: clouds 3s ease infinite 1.5s;
 }
 
 .yman{
