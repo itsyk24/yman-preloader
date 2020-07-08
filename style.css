@@ -44,7 +44,7 @@
     top:90%;
     transform: translate(100%, -90%);
     animation: clouds 3s ease infinite 1.5s;
-    height:150px;
+    height:250px;
     position: absolute;
     right: 0;
     z-index: -1;
